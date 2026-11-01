@@ -1,0 +1,1 @@
+SYNTHETIC Project 8 sample backtests, not real BTC or trading performance. For education only.
