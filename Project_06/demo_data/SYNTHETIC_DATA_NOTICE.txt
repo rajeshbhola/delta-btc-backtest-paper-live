@@ -1,0 +1,1 @@
+All demo candles/signals are synthetic, copied from the Project 4 bundled synthetic example. They are NOT Delta historical data.

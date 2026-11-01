@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+results/
+custom_results/
+*.pyc
+
+
+# Add to .gitignore
+data/
+*.parquet
+*.csv
+results_real/
+equity/
+*.json
+__pycache__/
+.ipynb_checkpoints/

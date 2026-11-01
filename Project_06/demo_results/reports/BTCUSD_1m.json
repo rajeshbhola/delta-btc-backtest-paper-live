@@ -1,0 +1,34 @@
+{
+  "mode": "long_only",
+  "starting_capital_usd": 10000,
+  "ending_capital_usd": 10100.013858571889,
+  "gross_return_pct_before_fees": 1.0001385857188794,
+  "net_return_pct": 1.0001385857188794,
+  "max_drawdown_pct": -0.2373699591591949,
+  "trade_count": 6,
+  "win_rate_pct": 100.0,
+  "profit_factor": null,
+  "total_net_pnl_usd": 100.0138585718887,
+  "fee_bps_per_side": 0.0,
+  "exposure_pct": 36.87374749498998,
+  "signal_counts": {
+    "BUY": 7,
+    "SELL": 7,
+    "HOLD": 485
+  },
+  "candles": 499,
+  "note": "Educational, synthetic-equity model. 1x notional, end-of-history liquidation; excludes spread, slippage, funding, GST, margin/liquidation, and real Delta fees. See Project 7.",
+  "timeframe": "1m",
+  "data_info": {
+    "rows": 499,
+    "missing_signal_rows": 0,
+    "gaps": 1,
+    "first": "2026-10-29T15:37:00+00:00",
+    "last": "2026-10-29T23:56:00+00:00",
+    "as_of": "2026-11-01T05:02:16.252505+00:00"
+  },
+  "candles_root": "demo_data",
+  "signals_root": "demo_data",
+  "generated_at_utc": "2026-11-01T05:02:16.267843+00:00",
+  "data_origin": "SYNTHETIC_DEMO"
+}
