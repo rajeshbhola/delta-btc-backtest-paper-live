@@ -1,0 +1,123 @@
+[
+  {
+    "timestamp_utc": "2026-09-30T13:00:00Z",
+    "close": 99956.5028053985,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T14:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T14:00:00Z",
+    "close": 100027.6239781154,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T15:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T15:00:00Z",
+    "close": 100185.8179221032,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T16:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T16:00:00Z",
+    "close": 100338.0591836822,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T17:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T17:00:00Z",
+    "close": 100326.845779106,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T18:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T18:00:00Z",
+    "close": 100446.4979068902,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T19:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T19:00:00Z",
+    "close": 100549.6442450309,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T20:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T20:00:00Z",
+    "close": 100638.6502227503,
+    "ema_9": null,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T21:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T21:00:00Z",
+    "close": 100558.250796795,
+    "ema_9": 100382.4435229159,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T22:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T22:00:00Z",
+    "close": 100752.7637210606,
+    "ema_9": 100456.5075625449,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-09-30T23:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  },
+  {
+    "timestamp_utc": "2026-09-30T23:00:00Z",
+    "close": 100766.6994673594,
+    "ema_9": 100518.5459435078,
+    "ema_21": null,
+    "rsi_14": null,
+    "decision_time_utc": "2026-10-01T00:00:00Z",
+    "signal": "HOLD",
+    "reason": "NO_VALID_CROSSOVER",
+    "gap_before": false
+  }
+]
