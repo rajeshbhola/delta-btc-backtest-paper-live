@@ -1,0 +1,5 @@
+{
+  "synthetic": true,
+  "warning": "Artificial generated OHLCV only. NOT Delta real BTCUSD data.",
+  "bars_per_timeframe": 1500
+}
